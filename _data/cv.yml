@@ -65,14 +65,25 @@ Ensemble Transform Kalman Filter), April 2023 – present
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Atmospheric Science Section Best Student Poster Award, Asia Oceania Geoscience Society
+    - year: 2021
       items: 
-        - Max Planck Medal
-
+        - Graduation with College Dean’s Award (Rank #2 in class)
+    - year: 2020
+      items: 
+        - The Zhu Shun Yi He Qin Scholarship (Rank #1 of the college in the semester; $3000 Award)
+    - year: 2020
+      items: 
+        - Rank #3 in National Earth Science System Special Research Competition ($300 Award)
+    - year: 2020
+      items: 
+        - The Liu Ren Jie Alumni Scholarship ($600 Award)
+    - year: 2018, 2020
+      items: 
+        - Academic Excellence Award (top 2% of class in semester; $150)
+        
 - title: Academic Interests
   type: nested_list
   contents:
