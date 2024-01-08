@@ -11,19 +11,22 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.S.
-      institution: Department of Atmospheric Sciences, National Central University, Taoyuan, Taiwan (Republic of China)
-      year: 2022
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - title: Advisor: Prof. Shu-Chih Yang
-        - title: Thesis: “Analyzing the convection development over northern Taiwan using a multi-scale radar data assimilation system with rapid update cycles"
-        - title: GPA: 4.18/4/3
-    - title: B.S.
-      institution: Department of Atmospheric Sciences, National Central University, Taoyuan, Taiwan (Republic of China)
-      year: 2021
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        - title: Honors: College Dean's Award
-        - title: GPA: 4.18/4/3
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
