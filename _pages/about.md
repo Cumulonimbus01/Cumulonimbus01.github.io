@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: "But man is not made for defeat. A man can be destroyed but not defeated." -Ernest Hemingway
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>S1-621</p>
+    <p>S1-621, National Central University</p>
     <p>No. 300, Zhongda Rd</p>
     <p>Zhongli District, Taoyuan City, Taiwan, Republic of China 320</p>
 
