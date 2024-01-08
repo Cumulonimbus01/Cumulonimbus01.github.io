@@ -92,16 +92,16 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Radar Data Assimilation
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Using NCU WRF-LETKF (WRF model with Localized Ensemble Transform Kalman Filter) combine with radar data
+        - Investigate and reconstruct the 4D high resolution analysis field dynamically and thermodynamically.
+    - title: Predictability
       items:
-        - Description 1.
-        - Description 2.
+        - Explore the error propagation across scales.
+        - Considering machine learning as one of the tools.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Map-holic, Trainfan, Music, etc.
