@@ -15,12 +15,15 @@
       institution: Department of Atmospheric Sciences, National Central University, Taoyuan, Taiwan (Republic of China)
       year: 2022
       description:
-        - Advisor: Prof. Shu-Chih Yang
-        - Description 2.
-        - title: Description 3.
+        - title: Advisor
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Prof. Shu-Chih Yang
+        - title: Thesis
+          contents:
+            - "Analyzing the convection development over northern Taiwan using a multi-scale radar data assimilation system with rapid update cycles"
+        - title: GPA
+          contents:
+            - 4.18/4.3
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
