@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. But man is not made for defeat. A man can be destroyed but not defeated.
+subtitle: But man is not made for defeat. A man can be destroyed but not defeated.
 
 profile:
   align: right
