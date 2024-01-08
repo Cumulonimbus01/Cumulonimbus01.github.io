@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: Liu_resume.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: A Curriculum Vitae of Lawrence Liu. January, 2024 Updated.
 toc:
   sidebar: left
 ---
