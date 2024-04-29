@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Admitted to the PhD program of Department of Climate, Meteorology & Atmospheric Sciences, University of Illinois Urbana-Champaign!!! 
+Admitted to the PhD program of Department of Climate, Meteorology & Atmospheric Sciences, University of Illinois Urbana-Champaign!!! :sparkles: :smile:
