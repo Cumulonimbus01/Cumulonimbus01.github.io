@@ -12,12 +12,12 @@
   type: time_table
   contents:
     - title: PhD
-    institution: Department of Climate, Meteorology, and Atmospheric Sciences, University of Illinois Urbana-Champaign, Illinois, United States
-    year: since 2024
-    description:
-      - title: Advisor
-        contents:
-          - Prof. Kelvin Kay Droegemeier
+      institution: Department of Climate, Meteorology, and Atmospheric Sciences, University of Illinois Urbana-Champaign, Illinois, United States
+      year: 2024 - current
+      description:
+        - title: Advisor
+          contents:
+            - Prof. Kelvin Kay Droegemeier
     - title: M.S.
       institution: Department of Atmospheric Sciences, National Central University, Taoyuan, Taiwan (Republic of China)
       year: 2022
