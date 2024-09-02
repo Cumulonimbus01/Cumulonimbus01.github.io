@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>S1-621, National Central University</p>
-    <p>No. 300, Zhongda Rd</p>
-    <p>Zhongli District, Taoyuan City, Taiwan, Republic of China 320</p>
+    <p>4050-F Natural History Building</p>
+    <p>1301 W Green St</p>
+    <p>Urbana, Illinois, United States, 61801</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
