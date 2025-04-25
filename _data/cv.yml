@@ -46,9 +46,15 @@
 - title: Experience
   type: time_table
   contents:
+      - title: Graduate Research Assistant
+      institution: Department of Climate, Meteorology, and Atmospheric Sciences, University of Illinois Urbana-Champaign, Illinois, United States
+      year: 2024 - current
+      description:
+        - Research on Prediction of Deep Convective Storms Using Radar and Other Fine-Scale Data in Physics- and Machine Learning-Based Models, August 2024 – present
+  
     - title: Research Assistant
       institution: Department of Atmospheric Sciences, National Central University, Taoyuan, Taiwan (Republic of China)
-      year: 2022 - current
+      year: 2022 - 2024
       description:
         - Research on multi-scale radar data assimilation, October 2022 – present
         - Research on Taiwan-Area Heavy rain Observation and Prediction Experiment / Prediction of Rainfall Campaign in the Pacific (TAHOPE/PRECIP) IOP3 events (with a multi-scale radar data assimilation framework), April 2023 – present
@@ -66,13 +72,6 @@
       year: 2020
       description:
          - Special topic on simulating typhoon using an idealized barotropic vorticity equation, July 2020 – August 2020
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
