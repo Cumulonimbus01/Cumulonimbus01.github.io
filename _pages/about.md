@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Study hard what interests you the most in the most undisciplined, irreverent and original manner possible -Richard Feynman
+subtitle: <i>"Study hard what interests you the most in the most undisciplined, irreverent and original manner possible"</i> — Richard Feynman
 profile:
   align: right
   image: prof_pic.jpg
