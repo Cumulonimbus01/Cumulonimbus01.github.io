@@ -7,10 +7,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>4050-F Natural History Building</p>
-    <p>1301 W Green St</p>
-    <p>Urbana, Illinois, United States, 61801</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
