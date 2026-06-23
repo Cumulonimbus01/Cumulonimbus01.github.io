@@ -11,10 +11,10 @@ I enjoy building cities in my spare time. Here are some of my favorite maps.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Nova Scania.png" title="Nova Scania" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Nova_Scania.png" title="Nova Scania" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Las Cruz.png" title="Las Cruz" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Las_Cruz.png" title="Las Cruz" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
