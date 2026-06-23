@@ -2,7 +2,7 @@
 layout: page
 title: City Builder
 description: My Cities Skylines maps
-img: assets/img/Nova Scania.png
+img: assets/img/Nova_Scania.png
 importance: 2
 category: fun
 ---
