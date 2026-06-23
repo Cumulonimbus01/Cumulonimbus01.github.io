@@ -5,7 +5,7 @@ permalink: /
 subtitle: <i>"Study hard what interests you the most in the most undisciplined, irreverent and original manner possible"</i> — Richard Feynman
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items
