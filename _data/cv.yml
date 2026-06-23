@@ -56,9 +56,9 @@
       institution: Department of Atmospheric Sciences, National Central University, Taoyuan, Taiwan (Republic of China)
       year: 2022 - 2024
       description:
-        - Research on multi-scale radar data assimilation, October 2022 – present
-        - Research on Taiwan-Area Heavy rain Observation and Prediction Experiment / Prediction of Rainfall Campaign in the Pacific (TAHOPE/PRECIP) IOP3 events (with a multi-scale radar data assimilation framework), April 2023 – present
-        - Research on scale-dependent inflation methods within WRF-LETKF (WRF model with Localized Ensemble Transform Kalman Filter), April 2023 – present
+        - Research on multi-scale radar data assimilation, October 2022 – 2024
+        - Research on Taiwan-Area Heavy rain Observation and Prediction Experiment / Prediction of Rainfall Campaign in the Pacific (TAHOPE/PRECIP) IOP3 events (with a multi-scale radar data assimilation framework), April 2023 – 2024
+        - Research on scale-dependent inflation methods within WRF-LETKF (WRF model with Localized Ensemble Transform Kalman Filter), April 2023 – 2024
    
     - title: Teaching Assistant
       institution: Department of Atmospheric Sciences, National Central University, Taoyuan, Taiwan (Republic of China)
@@ -98,16 +98,27 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Radar Data Assimilation
-      items: 
-        - Using NCU WRF-LETKF (WRF model with Localized Ensemble Transform Kalman Filter) combine with radar data
-        - Investigate and reconstruct the 4D high resolution analysis field dynamically and thermodynamically.
-    - title: Predictability
+    - title: Deep Convective Storm Prediction
       items:
-        - Explore the error propagation across scales.
-        - Considering machine learning as one of the tools.
+        - Evaluating AI/ML emulators in an idealized OSSE framework against known 3D truth
+        - Understanding the physical consistency and predictability limits of storm-scale AI models
+    - title: Data Assimilation
+      items:
+        - Developing ML-based data assimilation for efficient storm-scale analysis
+        - Multi-scale radar data assimilation with ensemble methods (WRF-LETKF)
+    - title: Machine Learning for Weather Prediction
+      items:
+        - Integrating physics-based NWP with AI/ML models (WoFSCast, GraphCast)
+        - Improving physical interpretability of storm-scale ML forecasts
+        
+- title: Skills
+  type: list
+  contents:
+    - <u>Programming:</u> Python, PyTorch, Bash, MatLab, Fortran, GrADS
+    - <u>Models:</u> WRF, WoFSCast, GraphCast, LETKF
+    - <u>Tools:</u> Git, Linux, NCSA Delta (GPU cluster)
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Map-holic, Trainfan, Music, etc.
+    - <u>Hobbies:</u> Map-holic, Railfan, Music, Storm Chasing, etc.
