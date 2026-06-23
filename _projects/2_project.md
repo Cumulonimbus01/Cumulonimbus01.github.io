@@ -2,7 +2,7 @@
 layout: page
 title: Storm Chasing
 description: Chasing storms across the Great Plains
-img: assets/img/Charleston_Squall.png
+img: assets/img/Charleston_Squall.jpg
 importance: 3
 category: fun
 ---
