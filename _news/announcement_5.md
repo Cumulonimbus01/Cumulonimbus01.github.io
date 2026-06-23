@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper published in New paper published in Journal of Hydrology: Regional Studies!
+ New paper published in Journal of Hydrology: Regional Studies!
